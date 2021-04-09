@@ -1,14 +1,14 @@
-![babel](https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg)
 # cats_vs_dogs
 This time I am trying to face the Keggle's challange on cassifying cats and dogs photos with the use of Convolutional Neural Networks.<br>
 https://www.kaggle.com/c/dogs-vs-cats <br>
 The project was my final work for "Intro to Python and ML" course at Kozminsku University.<br><br>
 
-The model I created distinguishes Cats and Dogs on photos with more then <b>90% accuracy</b><br><br>
+The model I created distinguishes Cats and Dogs on photos with more then <b>90% accuracy</b> on test data<br>
+It was fed with more tahn 20k of various pictures presenting Cat and Dogs (and also some faces of trolls who decided to upload them to an open-source datase 😅)<br><br>
 
 Finaly I showed the photo of my dog to the model and it was pretty sure that it's seeing a dog 😁 <br>
 Here is the photo:
-![babel](https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg)
+![babel](https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg = 1000x500)
 
 <br>
 And here is what the algorithm said: <br>
