@@ -8,7 +8,9 @@ It was fed with more tahn 20k of various pictures presenting Cat and Dogs (and a
 
 Finaly I showed the photo of my dog to the model and it was pretty sure that it's seeing a dog 😁 <br>
 Here is the photo:
-![babel](https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg = 1000x500)
+<img src="https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg" alt="drawing" width="200"/>
+
+
 
 <br>
 And here is what the algorithm said: <br>
