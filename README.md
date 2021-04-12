@@ -7,8 +7,8 @@ The model I created distinguishes Cats and Dogs on photos with more then <b>90% 
 It was fed with more tahn 20k of various pictures presenting Cat and Dogs (and also some faces of trolls who decided to upload them to an open-source datase 😅)<br><br>
 
 Finaly I showed the photo of my dog to the model and it was pretty sure that it's seeing a dog 😁 <br>
-Here is the photo:
-<img src="https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg" alt="drawing" width="200"/>
+Here is the photo:<br>
+<img src="https://user-images.githubusercontent.com/51453876/109534053-3618cc80-7abb-11eb-8e80-bb6cdd05840e.jpg" alt="drawing" width="400"/>
 
 
 
