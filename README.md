@@ -15,3 +15,6 @@ Here is the photo:<br>
 <br>
 And here is what the algorithm said: <br>
 <img width="257" alt="Screenshot 2021-03-01 at 18 25 13" src="https://user-images.githubusercontent.com/51453876/109534288-79733b00-7abb-11eb-92c9-cb1336d40ab8.png">
+<br><br>
+Feel free to contact me in case of any comments or recommendations concerning my work 😁 I'll be pleased to discuss about this (or any other project) and maybe learn something new <br> <br>
+I am looking forward to accomplish more ML projects! -- Stay Tuned! 🙌
