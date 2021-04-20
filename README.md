@@ -3,7 +3,7 @@ This time I am trying to face the Keggle's challange on cassifying cats and dogs
 https://www.kaggle.com/c/dogs-vs-cats <br>
 The project was my final work for "Intro to Python and ML" course at Kozminsku University.<br><br>
 
-The model I created distinguishes Cats and Dogs on photos with more then <b>90% accuracy</b> on test data<br>
+I used the Keras library to create my model that distinguishes Cats and Dogs on photos with more then <b>90% accuracy</b> on test data<br>
 It was fed with more tahn 20k of various pictures presenting Cat and Dogs (and also some faces of trolls who decided to upload them to an open-source datase 😅)<br><br>
 
 Finaly I showed the photo of my dog to the model and it was pretty sure that it's seeing a dog 😁 <br>
